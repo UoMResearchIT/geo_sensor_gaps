@@ -292,3 +292,9 @@ Licensed under the MIT license, see the file LICENSE for details.
 
 
 
+
+### Infrastructure model
+![Infrastructure main model](.infragenie/infrastructure_main_model.svg)
+- [web component model](.infragenie/web_component_model.svg)
+
+---
